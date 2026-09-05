@@ -33,8 +33,7 @@ The aim is to design and implement a **2-bit Multiplier** using **Cadence Virtuo
 
 ## Circuit Diagram
 
-![image](https://github.com/user-attachments/assets/a56c4672-c7a5-44a8-908f-860243dc365d)
-
+<img width="1552" height="821" alt="image" src="https://github.com/user-attachments/assets/9176af19-4a4f-4754-b486-be47e1de37e1" />
 
 ## Truth Table for 2-Bit Multiplier
 
